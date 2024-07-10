@@ -1,4 +1,4 @@
 # demo
 This is demo repo for learing git and Github.
-<b2>
+<br>
 Author : Deepak and Lokesh
